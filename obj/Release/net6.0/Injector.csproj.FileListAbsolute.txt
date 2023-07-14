@@ -1,0 +1,15 @@
+C:\Users\gleb\Source\Repos\MonoInjector\bin\Release\net6.0\Injector.exe
+C:\Users\gleb\Source\Repos\MonoInjector\bin\Release\net6.0\Injector.deps.json
+C:\Users\gleb\Source\Repos\MonoInjector\bin\Release\net6.0\Injector.runtimeconfig.json
+C:\Users\gleb\Source\Repos\MonoInjector\bin\Release\net6.0\Injector.dll
+C:\Users\gleb\Source\Repos\MonoInjector\bin\Release\net6.0\Injector.pdb
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.csproj.AssemblyReference.cache
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.AssemblyInfoInputs.cache
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.AssemblyInfo.cs
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.csproj.CoreCompileInputs.cache
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.dll
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\ref\Injector.dll
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.pdb
+C:\Users\gleb\Source\Repos\MonoInjector\obj\Release\net6.0\Injector.genruntimeconfig.cache
+C:\Users\gleb\source\repos\MonoInjector\obj\Release\net6.0\refint\Injector.dll
